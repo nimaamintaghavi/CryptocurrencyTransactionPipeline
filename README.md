@@ -1,2 +1,2 @@
 # CryptocurrencyTransactionPipeline
-Productionized Cryptocurrency Transaction Pipeline on AWS Platform
+Productionized Cryptocurrency Transaction Pipeline on Cloud Platform
